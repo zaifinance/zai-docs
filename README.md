@@ -1,4 +1,4 @@
-# <img src="https://zai.finance/logo/Zai-Logo-White.png" width="40" /> Zero Collateral Dai (ZAI) Docs
+# <img src="https://zai.finance/logo/Zai-Logo-Black.png" width="40" /> Zero Collateral Dai (ZAI) Docs
 
 This repo contains documentation on the most awesome of all the algorithmic
 stablecoins: **ZAI**
