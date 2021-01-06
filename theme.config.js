@@ -1,9 +1,11 @@
+import React from 'react'
+
 export default {
   repository: 'https://github.com/zaifinance/zai-protocol', // project repo
   docsRepository: 'https://github.com/haxcru/zai-docs', // docs repo
   branch: 'master', // branch of docs
   // path: '/', // path of docs
-  titleSuffix: ' – ZAI',
+  titleSuffix: ' – Zero Collateral Dai',
   nextLinks: true,
   prevLinks: true,
   search: true,
@@ -13,10 +15,15 @@ export default {
   footerText: '',
   footerEditOnGitHubLink: true, // will link to the docs repo
   logo: (
-    <>
-      <svg>...</svg>
-      <span>Zero Collateral Dai</span>
-    </>
+    <React.Fragment>
+      <img src="https://zai.finance/logo/Zai-Logo-Black.png" width="40" />
+      <span className="ml-2 mr-2 font-extrabold hidden md:inline">
+        Zero Collateral Dai
+      </span>
+      <span className="text-gray-600 font-normal hidden md:inline">
+        A hybrid synthetic-algorithmic stablecoin
+      </span>
+    </React.Fragment>
   ),
   head: (
     <>
