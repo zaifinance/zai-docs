@@ -1,4 +1,4 @@
-# Zero Collateral Dai (ZAI) Docs
+# <img src="https://zai.finance/logo/Zai-Logo-White.png" width="40" /> Zero Collateral Dai (ZAI) Docs
 
 This repo contains documentation on the most awesome of all the algorithmic
 stablecoins: **ZAI**
@@ -13,11 +13,13 @@ don't be shy. 😘
 ### Here's what you need to know:
 
 These docs are generated with [Nextra](https://nextra.vercel.app/), a zero-code
-static site generator based on Next.js
+static site generator based on Next.js.
 
-If that doesn't mean anything to you, don't worry! Essentially, we just need to stick
+If that doesn't mean anything to you, don't worry!
+
+Essentially, we just need to stick
 markdown (`.md` or `.mdx`) files in the `pages` directory. Each subdirectory in the `pages`
-directory becomes a subsection in the documentation.
+directory becomes a subsection in the documentation:
 
 ```
 .
@@ -32,7 +34,7 @@ directory becomes a subsection in the documentation.
 
 ### How to Contribute: Fork and clone
 
-**Note:** You must have [Node.js](https://nodejs.org/en/) installed locally.
+❕**Note:** You must have [Node.js](https://nodejs.org/en/) installed locally.
 
 To make contributions, fork this repo on GitHub and clone it to your local
 machine. See this
@@ -47,15 +49,15 @@ cd zai-docs
 yarn install
 ```
 
-After the dependencies are installed run the dev server and visit localhost:3000
-in your browser
+After the dependencies are installed run the dev server and visit _localhost:3000_
+in your browser:
 
 ```
 yarn dev
 ```
 
 Finally, make changes to your local clone and push them to your remote fork on
-GitHub. Once your contributions have been pushed to GitHub, submit a pull request
+GitHub. Once your contributions have been pushed to GitHub, [submit a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 to this repo.
 
 ### Get help
