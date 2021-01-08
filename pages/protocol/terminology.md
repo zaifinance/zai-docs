@@ -25,7 +25,7 @@ voting privileges and a percent yield during times of expansion.
 
 #### Earned rewards
 
-ZAI rewards that have been earned but
+ZAI that has been earned but is not yet Claimable
 
 #### Epoch
 
@@ -35,10 +35,21 @@ ZAI rewards that have been earned but
 
 #### LP
 
+Liquidity Provider. In this case, An LP provides ZAI-DAI Uniswap Liquidity Pool tokens
+
 #### Spot Price
+
+The current market price as read by the Oracle
 
 #### Staged
 
+ZAI that has been sent to the contract, but not yet bonded.
+
 #### TWAP
 
+Time-Weighted Average Price
+
 #### Unlocked
+
+Also called "Frozen". In the Unlocked state, ZAI can be: Deposited, Withdrawn, Claimed, Bonded, Unbonded, or Added to the Liquidity Pool.
+Unlocked accounts in the DAO can also vote on governance proposals
