@@ -21,6 +21,8 @@ A length of time; currently one cycle equals one day (24 hours)
 
 #### Earned rewards
 
+ZAI that has been earned but is not yet Claimable
+
 #### Epoch
 
 #### Expansion
@@ -29,10 +31,22 @@ A length of time; currently one cycle equals one day (24 hours)
 
 #### LP
 
+Liquidity Provider. In this case, An LP provides ZAI-DAI Uniswap Liquidity Pool tokens
+
 #### Spot Price
+
+The current market price as read by the Oracle
 
 #### Staged
 
+ZAI that has been sent to the contract, but not yet bonded.
+
+
 #### TWAP
 
+Time-Weighted Average Price
+
 #### Unlocked
+
+Also called "Frozen". In the Unlocked state, ZAI can be: Deposited, Withdrawn, Claimed, Bonded, Unbonded, or Added to the Liquidity Pool. 
+Unlocked accounts in the DAO can also vote on governance proposals
