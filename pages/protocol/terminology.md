@@ -17,9 +17,15 @@ A length of time; currently one cycle equals one day (24 hours)
 
 #### DAO
 
+Short for _Decentralized Autonomous Organization_—the form of
+governance employed by ZAI. ZAI tokens can be staked in the DAO in return for
+voting privileges and a percent yield during times of expansion.
+
 #### Debt
 
 #### Earned rewards
+
+ZAI rewards that have been earned but
 
 #### Epoch
 
