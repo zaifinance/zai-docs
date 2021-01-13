@@ -2,7 +2,7 @@ import React from 'react'
 
 export default {
   repository: 'https://github.com/zaifinance/zai-protocol', // project repo
-  docsRepository: 'https://github.com/haxcru/zai-docs', // docs repo
+  docsRepository: 'https://github.com/zaifinance/zai-docs', // docs repo
   branch: 'master', // branch of docs
   // path: '/', // path of docs
   titleSuffix: ' – Zero Collateral Dai',
